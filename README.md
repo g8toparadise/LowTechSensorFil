@@ -1,5 +1,7 @@
 # LowTechSensorFil
 
+/!\ This is a test and there is a major flow in the design, please do not use
+
 This is a basic filament runout sensor, it is designed to be used with 
  - D2F-L Omron sensor 
  - 2 5*3 nodimium magnets
